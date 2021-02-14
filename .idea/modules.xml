@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Heroes-SpringWebflux-API-master.iml" filepath="$PROJECT_DIR$/.idea/Heroes-SpringWebflux-API-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livecoding/livecoding.iml" filepath="$PROJECT_DIR$/livecoding/livecoding.iml" />
     </modules>
   </component>
 </project>
